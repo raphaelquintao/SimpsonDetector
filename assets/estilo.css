@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Segoe;
+    src: url(segoeui.ttf);
+}
+
+body{
+	background:#ffffff;
+	color:#000000;
+	font-family:Segoe;
+}
+#corpo{
+	width: 900px;
+}
+
+b{
+	color:#404040;
+}
+h1{
+	color:#000000;
+font-size:16px;
+}
+p{
+	font-size:13px;
+}
+h2{
+	color:#404040;
+	font-size:14px;
+
+}
