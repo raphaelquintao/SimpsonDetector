@@ -6,3 +6,5 @@ The paper proposed the study and implementation of computer vision techniques an
 The faults present are viable for the future study and research with the goal to improve and propose new solutions.
 
 Works with Homer, Marge and Otto.
+
+https://user-images.githubusercontent.com/2568375/132102299-d22e52b8-8981-4a6c-ac3f-e1eca303ecad.mp4
